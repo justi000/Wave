@@ -16,15 +16,15 @@ With tons of epic songs to keep you in the beat, you can get hours of intense, f
 Not only do you have a great time playing, there are a wide range of options available in game that you can toggle to give you the best experience possible.
 
 Features include:
- - [x] Music
- - [x] Background
- - [x] Trail
- - [x] Controls
- - [x] Particles
- - [x] Fancy Buttons
- - [x] Geek Stats
- - [x] Color
-
+ - [x] Music
+ - [x] Background
+ - [x] Trail
+ - [x] Controls
+ - [x] Particles
+ - [x] Fancy Buttons
+ - [x] Geek Stats
+ - [x] Color
+ 
 And more on the way!
 
 ## Future Development
